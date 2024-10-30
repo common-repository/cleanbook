@@ -1,0 +1,273 @@
+# Copyright (C) 2014 Cleanbook - Responsive plugin based on Bootstrap
+# This file is distributed under the same license as the Cleanbook - Responsive plugin based on Bootstrap package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cleanbook - Responsive plugin based on Bootstrap 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/cleanbook\n"
+"POT-Creation-Date: 2014-11-03 04:02:54+00:00\n"
+"PO-Revision-Date: 2014-11-02 23:09-0500\n"
+"Last-Translator: david francoeur <dfrancoeur04@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+
+#: admin/form.php:8
+#: admin/listdata.php:24
+#: form.php:5
+#: functions.php:14
+msgid "Fullname"
+msgstr "Nom complet"
+
+#: admin/form.php:20
+#: admin/listdata.php:25
+#: form.php:13
+#: functions.php:15
+msgid "Email"
+msgstr "Courriel"
+
+#: admin/form.php:33
+#: admin/listdata.php:26
+#: form.php:21
+#: functions.php:16
+msgid "Phone"
+msgstr "Téléphone"
+
+#: admin/form.php:45
+#: admin/listdata.php:28
+#: form.php:29
+#: functions.php:17
+msgid "Date and time"
+msgstr "Date et heure"
+
+#: admin/form.php:57
+#: admin/listdata.php:27
+#: form.php:36
+#: functions.php:18
+msgid "Comment"
+msgstr "Commentaire"
+
+#: admin/form.php:66
+msgid "Activate"
+msgstr "Activer"
+
+#: admin/form.php:79
+#: form.php:41
+msgid "Submit"
+msgstr "Soumettre"
+
+#: admin/form.php:83
+msgid "Cancel"
+msgstr "Annuler"
+
+#: admin/listdata.php:16
+#: admin/settings.php:36
+msgid "Manage appointments"
+msgstr "Gestion des rendez-vous"
+
+#: admin/listdata.php:23
+msgid "ID"
+msgstr "ID"
+
+#: admin/listdata.php:29
+msgid "Activated"
+msgstr "Activer"
+
+#: admin/listdata.php:30
+msgid "Actions"
+msgstr "Actions"
+
+#: admin/listdata.php:53
+msgid "Edit"
+msgstr "Modifier"
+
+#: admin/listdata.php:62
+msgid "No appointments were found."
+msgstr "Il n'y a pas de rendez-vous enregistré."
+
+#: admin/settings-page.php:2
+#: admin/settings.php:37
+msgid "Cleanbook Settings"
+msgstr "Paramètres Cleanbook"
+
+#: admin/settings.php:23
+msgid "Edit appointment"
+msgstr "Modifier le rendez-vous"
+
+#: admin/settings.php:24
+#: admin/settings.php:159
+#: admin/settings.php:214
+#: cleanbook.php:72
+#: cleanbook.php:164
+msgid "An error has occured. Please contact the administrator."
+msgstr "Une erreur est survenue. Veuillez contacter l'administrateur, merci."
+
+#: admin/settings.php:36
+msgid "Cleanbook Appointments"
+msgstr "Rendez-vous Cleanbook"
+
+#: admin/settings.php:51
+msgid "General Settings"
+msgstr "Paramètres Cleanbook"
+
+#: admin/settings.php:52
+msgid "Auto-register Bootstrap"
+msgstr "Enregistrer Bootstrap automatiquement"
+
+#: admin/settings.php:55
+msgid "Email Notification Settings"
+msgstr "Paramètre de notification par courriel"
+
+#: admin/settings.php:56
+msgid "Activate email notification"
+msgstr "Activer la notification par courriel"
+
+#: admin/settings.php:57
+msgid "Email to notify"
+msgstr "Courriel de notification"
+
+#: admin/settings.php:64
+msgid "This is where you will find all of the general settingsthat affects the behavior of your Cleanbook plugin."
+msgstr "Vous retrouverez ici tous les paramètres généraux qui affecte le comportement de votre extension Cleanbook."
+
+#: admin/settings.php:80
+msgid "This is where you will find all of the settings regarding notification by email."
+msgstr "Cette section présente toutes les options concernant la notification par courriel."
+
+#: admin/settings.php:158
+msgid "The booking was marked as %s."
+msgstr "Le rendez-vous a été marqué comment étant %s."
+
+#: admin/settings.php:213
+msgid "The booking has been updated."
+msgstr "Le rendez-vous a été mis à jour."
+
+#: admin/settings.php:247
+msgid "No appointment found with id [%s]"
+msgstr "Aucun rendez-vous trouvé avec le id [%s]"
+
+#: cleanbook.php:163
+msgid "The booking has been added. It will be reviewed and you'll be contacted for confirmation."
+msgstr "Un rendez-vous a été ajouté. Vous serez contacté pour confirmation."
+
+#: form.php:8
+msgid "First name Last name"
+msgstr "Prénom Nom"
+
+#: form.php:16
+msgid "example@email.com"
+msgstr "exemple@courriel.com"
+
+#: form.php:24
+msgid "(514) 555-5555"
+msgstr "(514) 555-5555"
+
+#: form.php:39
+msgid "Please add any note regarding the booking..."
+msgstr "Veuillez ajouter les précisions concernant le rendez-vous ici..."
+
+#: functions.php:11
+msgid "%s booked an appointment on %s."
+msgstr "%s a pris un rendez-vous sur %s."
+
+#: functions.php:12
+msgid "Hi,"
+msgstr "Bonjour,"
+
+#: functions.php:13
+msgid "You received this email to let you know that %s as booked an appointment from your website. Here is the information regarding this appointment:"
+msgstr "Vous avez reçu ce courriel pour vous informer que %s a pris un rendez-vous sur votre site web. Voici l'information concernant ce rendez vous :"
+
+#: functions.php:20
+msgid "You can log in the administration panel of your site %s to confirm the appointment."
+msgstr "Vous pouvez vous connecter dans le panneau d'administration de votre site %s pour confirmer le rendez-vous."
+
+#: functions.php:52
+msgid "Please provide a name."
+msgstr "Veuillez fournir un nom."
+
+#: functions.php:56
+msgid "Please provide an email."
+msgstr "Veuillez fournir un courriel."
+
+#: functions.php:58
+msgid "Please provide a valid email : valid@email.com."
+msgstr "Veuillez fournir un courriel valide : valide@courriel.com."
+
+#: functions.php:62
+msgid "Please provide a phone."
+msgstr "Veuillez fournir un numéro de téléphone."
+
+#: functions.php:64
+msgid "Please provide a valid phone number : (514) 555-5555."
+msgstr "Veuillez fournir un numéro de téléphone valide (514) 555-5555."
+
+#: functions.php:68
+msgid "Please provide a date and time"
+msgstr "Veuillez fournir une date et une heure."
+
+#: functions.php:70
+msgid "Please provide a valid date and time : 2014-10-21 16:00:00."
+msgstr "Veuillez fournir une date et une heure valide  : 2014-10-21 16:00:00."
+
+#: view.php:11
+msgid "Previous"
+msgstr "Précédent"
+
+#: view.php:12
+msgid "Next"
+msgstr "Suivant"
+
+#: view.php:15
+msgid "Year"
+msgstr "Année"
+
+#: view.php:16
+msgid "Month"
+msgstr "Mois"
+
+#: view.php:17
+msgid "Week"
+msgstr "Semaine"
+
+#: view.php:18
+msgid "Day"
+msgstr "Jour"
+
+#: view.php:27
+msgid "Schedule an appointment"
+msgstr "Prenez un rendez-vous"
+
+#. Plugin Name of the plugin/theme
+msgid "Cleanbook - Responsive plugin based on Bootstrap"
+msgstr "Cleanbook - Responsive plugin based on Bootstrap"
+
+#. Description of the plugin/theme
+msgid "Cleanbook shows a form, i18n, so you can book a rendez-vous. This plugin is based on Fastbook."
+msgstr "Cleanbook shows a form, i18n, so ou can book a rendez-vous. This plugin is based on Fastbook"
+
+#. Author of the plugin/theme
+msgid "David Francoeur"
+msgstr "David Francoeur"
+
+#. Author URI of the plugin/theme
+msgid "http://davidfrancoeur.ca"
+msgstr "http://davidfrancoeur.ca"
+
+#~ msgid "Deactivate"
+#~ msgstr "Désactiver"
+
+#~ msgid "Today"
+#~ msgstr "Aujourd'hui"
+
+#~ msgid "Do you want Bootstrap to be automatically registered?"
+#~ msgstr "Voulez-vous que Bootstrap soit automatiquement enregistré?"
+
+#~ msgid "Appointments List"
+#~ msgstr "Liste de rendez-vous"
+
+#~ msgid "Name"
+#~ msgstr "Nom"
